@@ -11,7 +11,7 @@
 	<groupId>br.com.zuphub</groupId>
 	<artifactId>zuphub</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>exemplo.maven</name>
+	<name>zuphub</name>
 	<description>ZUPhub API</description>
 
 	<properties>
