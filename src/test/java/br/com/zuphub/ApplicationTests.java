@@ -1,4 +1,4 @@
-package br.com.globallabs.exemplo.maven;
+package br.com.zuphub;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

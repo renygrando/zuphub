@@ -1,4 +1,4 @@
-package br.com.globallabs.exemplo.maven;
+package br.com.zuphub;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
