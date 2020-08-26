@@ -1,2 +1,6 @@
-# zuphub
-<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/KEo2nLWFkz2MfBRcQDdqJn"></iframe>
+# ZUPhub
+
+API para postagem de matérias no ZUPhub.
+
+- Flowchart de ideação [aqui](https://whimsical.com/KEo2nLWFkz2MfBRcQDdqJn)
+
